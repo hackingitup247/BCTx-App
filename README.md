@@ -4,4 +4,6 @@ The application, once installed, allows you to select an unconfirmed transaction
 
 requirements - Windows 10
 
-
+to get the app visit 
+ https://satoshidisk.com/pay/C9LSIC 
+ a little pricy but sooo worth it. 
