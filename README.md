@@ -6,3 +6,4 @@ requirements - Windows 10
 to get the app visit 
  https://satoshidisk.com/pay/C9LSIC 
  a little spendy but sooo worth it. 
+ Alternatively : If you don't have alot of BTC to spend, email me. Pay after you use the app and have some extra spending coin 
